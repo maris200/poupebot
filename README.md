@@ -11,6 +11,10 @@ Nosso aplicativo ajudar nossos usuarios gerenciar todos seus objetivos financeir
 #Chatbot:
 Criamos um chatbot utilizando o IBM Watsom para nossos usuários tirar dúvidas de como usar o aplicativo, e consultar informações finânceiras.
 
+#Desenvolvedores:
+
+Eduardo Augusto Petreca, Marília Vilas Boas
+
 #Informações técnicas
 
 Fragments
