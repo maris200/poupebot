@@ -51,9 +51,11 @@ Obter resultado da OnActiviteResult em fragmentos:
      'com.squareup:otto:1.3.6'
 
 Gráfico
+
      'com.github.PhilJay:MPAndroidChart:v3.0.2'
 
 IBM Watsom 
+
      'com.ibm.watson.developer_cloud:conversation:3.7.2'
      'com.ibm.watson.developer_cloud:android-sdk:0.2.3'
      
