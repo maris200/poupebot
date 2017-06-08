@@ -1,0 +1,29 @@
+<resources>
+    <!-- TEXT -->
+    <dimen name="text">20sp</dimen>
+    <dimen name="text_small">15sp</dimen>
+    <dimen name="text_large">20sp</dimen>
+
+    <dimen name="text_button">17sp</dimen>
+    <dimen name="text_profile">17sp</dimen>
+    <dimen name="title">25sp</dimen>
+
+    <!-- LAYOUT -->
+    <dimen name="lay_width">300dp</dimen>
+    <dimen name="lay_top">20dp</dimen>
+    <dimen name="lay_button">50dp</dimen>
+    <dimen name="lay_profile">15dp</dimen>
+    <dimen name="lay_home">10dp</dimen>
+
+    <!-- BUTTON -->
+    <dimen name="radius">50dp</dimen>
+    <dimen name="button">60dp</dimen>
+
+
+    <dimen name="textViewChat">15dp</dimen>
+
+
+    <dimen name="menu_item_w">50dp</dimen>
+
+
+</resources>

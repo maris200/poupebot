@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/layBottom"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/accent"
+        tools:ignore="NewApi,UselessParent">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            tools:ignore="DisableBaselineAlignment,UselessParent">
+
+            <LinearLayout
+                android:id="@+id/layHome"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_weight="2">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/home"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/home" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layDream"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_weight="2">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/goal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/trophy" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layChart"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_weight="2">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/chart"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/chart" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layBot"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_weight="2">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/bot"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/bot" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layAccount"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_weight="2">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/account"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/account" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,74 @@
+<resources>
+    <!-- APP -->
+    <string name="app_name">Poupe bot</string>
+    <string name="profile">Perfil</string>
+    <string name="profil">Perfil</string>
+    <string name="setting">Configurações</string>
+    <string name="report">Relatório</string>
+    <string name="objective">Objetivos</string>
+    <string name="pass">Alterar senha</string>
+    <string name="value">Valor</string>
+    <string name="objectiveAddValue">Adicionar valor</string>
+    <string name="objectivUpdate">Atualizar</string>
+
+    <!-- TEXT -->
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="name">Nome</string>
+    <string name="age">Idade</string>
+    <string name="not_user">Não está registrado?</string>
+    <string name="new_user">Registre-se</string>
+    <string name="forgot">esqueceu sua senha?</string>
+    <string name="preference">Salvar sua senha?</string>
+    <string name="user">Já é um usuário?</string>
+    <string name="user_enter">Entre</string>
+    <string name="notification">Notificação</string>
+    <string name="recover">Digite seu email e lhe enviamos uma nova senha</string>
+    <string name="balance">Saldo atual data:</string>
+    <string name="movement">Nova movimentação</string>
+    <string name="money">Receita</string>
+    <string name="recipe">Receitas</string>
+    <string name="expense">Despesa</string>
+    <string name="expenses">Despesas</string>
+    <string name="chart">Gráfico</string>
+    <string name="home">Início</string>
+    <string name="balanceOfMonth">Saldo do mês</string>
+    <string name="category">Categoria</string>
+    <string name="description">Descrição</string>
+    <string name="date">Data</string>
+    <string name="swing">Balanço</string>
+    <string name="helth">Saúde</string>
+    <string name="food">Alimentação</string>
+    <string name="transport">Transporte</string>
+    <string name="recreation">Lazer</string>
+    <string name="house">Moradia</string>
+    <string name="bills">Contas</string>
+    <string name="others">Outros</string>
+    <string name="nothing">Sem categoria</string>
+    <string name="salary">Salário</string>
+    <string name="month">Mês</string>
+    <string name="year">Ano</string>
+    <string name="type">Tipo</string>
+    <string name="goalname">Nome do objetivo</string>
+
+
+    <!-- DIALOG -->
+    <string name="dialogOk">Senha Recuperada com sucesso verifique seu email para maiores informações!</string>
+    <string name="dialogError">Erro ao recuperar senha</string>
+    <string name="dialogNo">Email não encontrado</string>
+    <string name="dialogName">Por favor preencha o campo nome</string>
+    <string name="dialogConfirm">Por favor confirme sua senha</string>
+
+    <!-- ALERT -->
+    <string name="alertError">Email ou senha incorreto, tente novamente!</string>
+    <string name="alertEmail">Email não encontrado, tente novamente!</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- BUTTON -->
+    <string name="enter">ENTRE</string>
+    <string name="send">ENVIAR</string>
+    <string name="save">SALVAR</string>
+    <string name="next">GERAR GRÁFICO</string>
+    <string name="what_s_on_your_mind">O que você está pensando?</string>
+
+</resources>
