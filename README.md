@@ -29,6 +29,13 @@ A camada Presenter é ciente de tudo o que ocorre nas outras duas camadas e deix
 a interação com usuário é feita primariamente pela View, e esta pode delegar ao Presenter determinadas tarefas
 há uma relação um-para-um entre estas camadas. Nesta relação há uma referência do View para o Presenter mas não o oposto.
 
+#Site Oficial:
+
+http://www.poupebot.16mb.com
+
+#Download Playstore:
+
+https://play.google.com/store/apps/details?id=br.com.megaapps.mepoupe
 
 Bibliotecas utilizadas neste projeto:
 
